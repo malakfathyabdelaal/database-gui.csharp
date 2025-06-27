@@ -75,7 +75,6 @@ A comprehensive platform for:
 - Populate `CATEGORY` with course types
 
 ### 💻 Application
-```bash
 
 👩‍🏫 Usage Guide
 For Instructors
