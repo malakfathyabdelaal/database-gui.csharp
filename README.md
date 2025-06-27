@@ -119,9 +119,8 @@ Security: Role-based login & validations
 
 Validation: CHECK constraints at DB level
 
-📷 Screenshots (optional)
-Add screenshots of the interface here (login form, course dashboard, assessment screen, etc.)
+
 
 ✍️ Author
 Malak Ali
-Data Science Student | Backend & Database Developer
+Data Science Student 
