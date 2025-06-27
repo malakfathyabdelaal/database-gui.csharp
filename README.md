@@ -115,9 +115,17 @@ Database: Microsoft SQL Server
 
 Frontend: Windows Forms GUI
 
-Security: Role-based login & validations
+![WhatsApp Image 2025-05-18 at 18 51 40_4cbbd860](https://github.com/user-attachments/assets/12995870-dc99-4048-bce8-67afedc63c11)
+![WhatsApp Image 2025-05-18 at 18 51 39_2d9efc33](https://github.com/user-attachments/assets/8b3e773b-2bc1-4bac-9925-530aaec1d8bc)
+![WhatsApp Image 2025-05-18 at 18 51 41_9f146420](https://github.com/user-attachments/assets/d2d6d8fd-08c4-4507-8a21-1eb998f0ef34)
+![WhatsApp Image 2025-05-18 at 18 51 43_041f6069](https://github.com/user-attachments/assets/87db6d47-7375-454c-8b26-50894be646e4)
+![WhatsApp Image 2025-05-18 at 18 51 42_0d4df6cf](https://github.com/user-attachments/assets/8a4387fa-791b-4fdf-b76b-eb2b1299b389)
+![WhatsApp Image 2025-05-18 at 18 51 45_a18ed254](https://github.com/user-attachments/assets/b287e782-ab65-46ab-a229-9870018c6271)
+![WhatsApp Image 2025-05-18 at 18 51 41_3244c08c](https://github.com/user-attachments/assets/ac810b30-806a-41d8-8974-70d318795267)
+![WhatsApp Image 2025-05-18 at 18 52 48_911c0a3c](https://github.com/user-attachments/assets/0bbd07f2-3455-4aa6-9422-6d725c1d0045)
+![WhatsApp Image 2025-05-18 at 18 51 44_79c9680f](https://github.com/user-attachments/assets/cee92397-d465-49ce-bcaf-d516accc0190)
+![WhatsApp Image 2025-05-18 at 18 51 44_758ca0a2](https://github.com/user-attachments/assets/51e0bcee-8963-4a59-8cce-8c23681dbbf0)
 
-Validation: CHECK constraints at DB level
 
 
 
